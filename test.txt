@@ -4,4 +4,4 @@ first java file
 second java file
 
 
-third file
+merge conflict
